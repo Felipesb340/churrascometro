@@ -1,0 +1,38 @@
+body {
+  font-size: 12pt;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  display: flex;
+}
+
+#interface {
+  background-color: burlywood;
+  padding: 50px;
+  display: inline-block;
+  text-align: center;
+  max-width: 300px;
+  
+}
+
+#res {
+
+}
+
+input {
+  border-radius: 5px ;
+  border-width: 3px;
+  padding: 5px;
+  font-size: 12pt;
+  font-family: 'Courier New', Courier, monospace;
+  margin-top: 5px;
+  
+}
+
+button {
+  border-radius: 5px ;
+  border-width: 3px;
+  padding: 5px;
+  font-size: 12pt;
+  font-family: 'Courier New', Courier, monospace;
+  margin-top: 5px;
+}
